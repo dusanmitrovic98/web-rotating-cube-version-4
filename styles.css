@@ -45,3 +45,4 @@ body {
 .top    { background-color: #e74c3c; } /* Red */
 .bottom { background-color: #9b59b6; } /* Purple */
 
+@keyframes rotate {
