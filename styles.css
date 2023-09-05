@@ -32,3 +32,4 @@ body {
     height: 40px;
     border: 1px solid #fff;
     display: flex;
+    justify-content: center;
