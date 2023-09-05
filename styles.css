@@ -46,3 +46,4 @@ body {
 .bottom { background-color: #9b59b6; } /* Purple */
 
 @keyframes rotate {
+    0%   { transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg); }
