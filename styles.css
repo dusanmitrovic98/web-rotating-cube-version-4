@@ -40,3 +40,4 @@ body {
 /* Assign different colors to each face */
 .front  { background-color: #ff5733; } /* Reddish */
 .back   { background-color: #3498db; } /* Blue */
+.right  { background-color: #2ecc71; } /* Green */
