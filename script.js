@@ -1,2 +1,3 @@
 const scene = document.getElementById("scene");
 
+// Function to generate a random number between min and max
