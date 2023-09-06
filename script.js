@@ -19,3 +19,4 @@ for (let i = 0; i < 50; i++) {
     const face = document.createElement("div");
     face.classList.add("face");
     face.style.transform = `rotateY(${j * 60}deg) translateZ(20px)`;
+    cube.appendChild(face);
