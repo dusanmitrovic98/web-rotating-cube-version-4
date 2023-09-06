@@ -7,3 +7,4 @@ function getRandom(min, max) {
 
 // Create and add cubes to the scene
 for (let i = 0; i < 50; i++) {
+  const cube = document.createElement("div");
