@@ -5,3 +5,4 @@ function getRandom(min, max) {
   return Math.random() * (max - min) + min;
 }
 
+// Create and add cubes to the scene
