@@ -11,3 +11,4 @@ for (let i = 0; i < 50; i++) {
   cube.classList.add("cube");
   cube.style.left = `${getRandom(0, 100)}%`;
   cube.style.top = `${getRandom(0, 100)}%`;
+  cube.style.transform = `translateZ(${getRandom(-200, 200)}px)`;
