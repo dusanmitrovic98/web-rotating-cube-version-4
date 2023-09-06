@@ -16,3 +16,4 @@ for (let i = 0; i < 50; i++) {
   scene.appendChild(cube);
 
   for (let j = 0; j < 10; j++) {
+    const face = document.createElement("div");
