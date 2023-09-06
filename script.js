@@ -10,3 +10,4 @@ for (let i = 0; i < 50; i++) {
   const cube = document.createElement("div");
   cube.classList.add("cube");
   cube.style.left = `${getRandom(0, 100)}%`;
+  cube.style.top = `${getRandom(0, 100)}%`;
